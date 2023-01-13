@@ -1,7 +1,6 @@
 
 <h1>About me </h1>
 <div align="center">
-<img src="static/banner.jpeg" style="max-width:60%;"/>
 </div>
 <br>
 I'm Sebastian from Bogotá, Colombia. I'm a curious person and a passionate about self-learning and ideas. I prefer to work with a cup of coffee on my desk and The Killers as soundtrack.
