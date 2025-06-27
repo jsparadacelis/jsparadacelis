@@ -3,28 +3,14 @@
 <div align="center">
 </div>
 <br>
-I'm Sebastian from Bogotá, Colombia. I'm a curious person and a passionate about self-learning and ideas. I prefer to work with a cup of coffee on my desk and The Killers as soundtrack.
+Hey👋 This is Sebastian from Bogotá, Colombia 🇨🇴 currently living in Valencia, Spain since October, 2025. During about 6 years I've worked for companies related to fintech, e-commerce, and logistics in roles like Backend Engineer and Data Engineer. Here I share some of my experiments in Software Design and Machine Learning.
 <br>
 <br>
 <h2> I usually play with </h2>
 
-- :computer: Python, Go, JS.
-- :earth_americas: Flask, FastAPI, Django, Angular.
-- :microscope: Scikit-Learn, Pandas, Keras.
-
-<h2>Talks & workshops</h2>
-
-- [Epilepsy Diagnosis with Python](https://www.youtube.com/watch?v=ZmR1oQ_vYIg)
-- [REST api with DRF](https://www.youtube.com/watch?v=z8nkWFGzSo4)
-- [Django Rest Framework](https://2020.pycon.co/ponencias/30/)
-
-<h2> Find me on </h2>
-<div >
-
-  [![Linkedin Badge](https://img.shields.io/badge/-jsparadacelis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsparadacelis/)](https://www.linkedin.com/in/jsparadacelis/)
-  [![Medium Badge](https://img.shields.io/badge/-jsparadacelis-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jsparadacelis)](https://github.com/jsparadacelis)
-  [![Twitter Badge](https://img.shields.io/badge/-jsparadacelis-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jsparadacelis)](https://twitter.com/jsparadacelis)
-</div>
+- :computer: Python and JS.
+- :earth_americas: Flask, FastAPI, Django.
+- :microscope: Scikit-Learn, Pytorch, Pandas, Scipy.
 
 <h2> Let's talk! </h2>
 <div>
