@@ -8,7 +8,7 @@ Hey👋 This is Sebastian from Bogotá, Colombia 🇨🇴 currently living in Va
 <br>
 <h2> I usually play with </h2>
 
-- :computer: Python and JS.
+- :computer: Python
 - :earth_americas: Flask, FastAPI, Django.
 - :microscope: Scikit-Learn, Pytorch, Pandas, Scipy.
 
