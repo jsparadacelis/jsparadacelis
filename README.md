@@ -3,7 +3,7 @@
 <div align="center">
 </div>
 <br>
-Hey👋 This is Sebastian from Bogotá, Colombia 🇨🇴 currently living in Valencia, Spain since October, 2025. During about 6 years I've worked for companies related to fintech, e-commerce, and logistics in roles like Backend Engineer and Data Engineer. Here I share some of my experiments in Software Design and Machine Learning.
+Hey👋 This is Sebastian from Bogotá, Colombia 🇨🇴 currently living in Valencia, Spain since October, 2025. For about 6 years I've worked for companies related to fintech, e-commerce, and logistics in roles like Backend Engineer and Data Engineer. Here I share some of my experiments in Software Design and Machine Learning.
 <br>
 <br>
 <h2> I usually play with </h2>
